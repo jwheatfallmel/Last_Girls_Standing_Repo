@@ -53,9 +53,6 @@ cd Last_Girls_Standing_Repo
 pip install pandas numpy matplotlib seaborn plotnine scikit-learn imbalanced-learn xgboost
 ```
 
-### Usage 
-1. Do
-
 ## Authors
 Joya Wheatfall-Melvin
 
